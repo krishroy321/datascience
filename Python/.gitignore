@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Data and large files (adjust formats as needed)
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+*.pkl
+
+# Local configuration
+.env
